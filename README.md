@@ -16,5 +16,6 @@ This is an interactive Excel dashboard that analyzes global trends in renewable 
 ![Renewable Energy Dashboard](renewable_energy_dasboard_screenshots/renewable_energy_dash_first.png)
 
 **Drilldown View:**
-![Renewable Energy Drilldown](renewable_energy_dashboard_screenshots/renewable_energy_drilldown_dash.png)
+![Renewable Energy Drilldown](renewable_energy_dasboard_screenshots/renewable_energy_drilldown_dash.png)
+
 
